@@ -1,3 +1,5 @@
+dự án xây dựng api quản lý kho hang
+
 step 1: cài xampp
 step 2: chuyển project vào thư mục htdocs của xampp
 step 3: add file sql vào phpmyadmin
