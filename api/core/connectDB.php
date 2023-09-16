@@ -4,7 +4,7 @@
         public $conn;
         private $serverName="localhost";
         private $username="root";
-        private $password="";
+        private $password="12345678";
         private $dbname="ql_kho";
 
         public function __construct(){
